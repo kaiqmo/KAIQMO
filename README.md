@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning React Native, WordPress as a CMS
  
-💬 You Ask me about Vtex, React, Html, CSS i will try to help you with what i can.
+💬 You Ask me about Vtex, React, Html, CSS3,SASS i will try to help you with what i can.
  
 📫 How to reach me: kaiquempresa@gmail.com
