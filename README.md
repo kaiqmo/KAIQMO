@@ -17,10 +17,15 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I have Bachelor in Computer Sciênce 
 
-🔭 I’m currently working on Vtex / React
 
-🌱 I’m currently learning React Native, WordPress as a CMS
- 
+🔭 I’m currently working on : **Vtex | React** 
+
+:chart_with_upwards_trend: My Current Certificates are: 
+**[Vtex Certificate](https://drive.google.com/file/d/186_6X8tSo-YKBk0IZItNbh5R6HmckpqM/view)** -
+**[Scrum Certificate](https://drive.google.com/file/d/1UDMYuwdTva9wo4YZFv8fQ_njVqwsvx4L/view?usp=sharing)**
+
+🌱 I’m currently learning :  **React Native**
+  
 💬 You Ask me about Vtex, React, Html, CSS3,SASS i will try to help you with what i can.
  
 📫 How to reach me: kaiquempresa@gmail.com
