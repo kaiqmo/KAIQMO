@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Carrefour Brasil as Senior Front-end Developr
+🔭 I’m currently working on Carrefour Brasil as Senior Front-end Developer
 
 <!--
 **kaiqmo/KAIQMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
