@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Carrefour Brasil as Senior Front-end Developr
+
 <!--
 **kaiqmo/KAIQMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -28,7 +30,7 @@ Here are some ideas to get you started:
 - **[Vtex Certificate](https://drive.google.com/file/d/186_6X8tSo-YKBk0IZItNbh5R6HmckpqM/view)** -
 - **[Scrum Certificate](https://drive.google.com/file/d/1UDMYuwdTva9wo4YZFv8fQ_njVqwsvx4L/view?usp=sharing)** -->
 
-🌱 I’m currently learning :  **React **
+<!-- 🌱 I’m currently learning :  **React ** -->
   
 <!-- 💬 You Ask me about Vtex, React, Html, CSS3,SASS,UI UX i will try to help you with what i can. -->
  
